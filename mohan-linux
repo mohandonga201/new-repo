@@ -1,6 +1,6 @@
 class Mohan-linux {
     public static void main(String args[])
     {
-        System.out.println("mohan-linux");
+        System.out...println("mohan-linux");
     }
 }
